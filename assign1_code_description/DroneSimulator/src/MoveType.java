@@ -1,0 +1,3 @@
+public enum MoveType {
+    TAKEOFF, MOVE_FORWARD, MOVE_BACKWARD, MOVE_UP, MOVE_DOWN, LAND;
+}
