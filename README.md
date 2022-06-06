@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChloeLeng
 - 👀 I’m interested in doing sports and movies
 - 🌱 I’m currently learning NLP and ML
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me chloe.yuxin615@gmail.com
 
 <!---
